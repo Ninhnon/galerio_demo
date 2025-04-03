@@ -1,6 +1,8 @@
 import Flutter
 import UIKit
 import FirebaseCore
+import FirebaseAuth
+import GoogleSignIn
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {

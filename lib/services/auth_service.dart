@@ -3,11 +3,12 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../config.dart';
 import '../env.dart';
-
+import 'package:flutter/foundation.dart'
+    show defaultTargetPlatform, kIsWeb, TargetPlatform;
 class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final GoogleSignIn _googleSignIn = GoogleSignIn(
-    clientId: Env.googleWebClientId,
+    clientId: defaultTargetPlatform == TargetPlatform.iOS ? Env.firebaseIOSClientId : Env.googleWebClientId,
     scopes: ['email', 'profile'],
   );
   final SharedPreferences _prefs;
