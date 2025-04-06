@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>830227413254-8rila8ttv73aemcjbf82voevjl1ur0al.apps.googleusercontent.com</string>
+	<string>563323962548-cd0fnpub6ptc68rsau5u5vch0n2cng74.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.830227413254-8rila8ttv73aemcjbf82voevjl1ur0al</string>
+	<string>com.googleusercontent.apps.563323962548-cd0fnpub6ptc68rsau5u5vch0n2cng74</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>830227413254-4rt9jllhahl3l9gpoq0d6h6ofmig56np.apps.googleusercontent.com</string>
+	<string>563323962548-asuggfbccg80l8elnn9cgjstq7c6bjph.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD-mlZdpDTf-nk9PCAug9C7sv8sjOQOwDI</string>
+	<string>AIzaSyA1GXi35gTSQbSNd47CNaC5IvJlxwFnJGY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>830227413254</string>
+	<string>563323962548</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.e.galerio</string>
 	<key>PROJECT_ID</key>
-	<string>galerio-9c2a3</string>
+	<string>phy-galerio-dev</string>
 	<key>STORAGE_BUCKET</key>
-	<string>galerio-9c2a3.firebasestorage.app</string>
+	<string>phy-galerio-dev.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:830227413254:ios:f3da71352a7a215e508687</string>
+	<string>1:563323962548:ios:34eab133380514e8f5c3e1</string>
 </dict>
 </plist>
